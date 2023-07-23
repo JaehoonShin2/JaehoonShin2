@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&nbsp;to&nbsp;Jaehoon's&nbsp;GitHub%20render&fontSize=50&fontAlign=85)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&nbsp;to&nbsp;Jaehoon's&nbsp;Git%20render&fontSize=40&fontAlign=85)
 
 
 ####  :clipboard: Once I've Used 
