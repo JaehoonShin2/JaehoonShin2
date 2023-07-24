@@ -29,7 +29,7 @@
 #### :pencil2: Study log
  
 <br/>
-<div>
+<div display="flex">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehoonShin2)](https://github.com/anuraghazra/github-readme-stats)
 
