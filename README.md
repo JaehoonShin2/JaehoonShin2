@@ -17,9 +17,9 @@
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img alt="aws" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA
--000000?style=for-the-badge&logo=IntelliJ&nbsp;IDEA&logoColor=white">
+-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img alt="Spring boot IDEA" src="https://img.shields.io/badge/Spring boot
--6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 </div>
 <br>
 <br>
