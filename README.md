@@ -1,4 +1,5 @@
 <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&nbsp;to&nbsp;Jaehoon's&nbsp;Git&fontSize=40&fontAlign=60)
 
 
@@ -11,9 +12,12 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <br>
 <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br>
+<img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+ <br>
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img alt="aws" src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA
+-#000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </div>
 <br>
 <br>
