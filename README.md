@@ -20,6 +20,9 @@
 -000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img alt="Spring boot IDEA" src="https://img.shields.io/badge/Spring boot
 -6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  - Spring
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+
 </div>
 <br>
 <br>
