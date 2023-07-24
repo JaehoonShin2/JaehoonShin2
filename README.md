@@ -1,4 +1,4 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&nbsp;to&nbsp;Jaehoon's&nbsp;Git&fontSize=40&fontAlign=60)
 
 
@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
